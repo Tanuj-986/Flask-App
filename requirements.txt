@@ -1,0 +1,7 @@
+sounddevice
+numpy
+wave
+keyboard
+soundfile
+python-dotenv
+groq
