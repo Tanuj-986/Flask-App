@@ -1,7 +1,6 @@
 from secret import *
 from groq import Groq
 
-client = Groq(api_key=("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"))
 
 
 ######### STT #########
